@@ -5,6 +5,6 @@ module.exports = {
         'user': 'b489bbeb692707',
         'password': '2093ff03'
     },
-	'database': 'my_schema',
+	'database': 'heroku_1e4babdd933339d',
     'users_table': 'users'
 };
